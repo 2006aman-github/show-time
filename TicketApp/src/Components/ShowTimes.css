@@ -1,0 +1,14 @@
+.show-times {
+  padding: 2rem;
+}
+.show-times > div {
+  color: #21bf78;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.show-times:hover {
+  background: white;
+  color: black;
+  border-color: #21bf78;
+}

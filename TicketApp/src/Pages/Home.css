@@ -1,0 +1,16 @@
+#movies-section {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  gap: 1rem 3rem;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 1rem;
+}
+#home > section {
+  background: #f6f6f6;
+  padding: 0.5rem 1rem;
+}
+#home {
+  width: 100%;
+}
